@@ -1,1 +1,1 @@
-# Rank_Algorithm
+# RankAlgorithm
